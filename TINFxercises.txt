@@ -1,0 +1,9 @@
+1)
+262 144 000 Blocks
+
+2)
+ufs calculates to jump to block nr 105 307 and goes to Byte Nr 222
+
+FAT jumps to the next block 105 307 times and then goes to Byte Nr 222
+
+3)
